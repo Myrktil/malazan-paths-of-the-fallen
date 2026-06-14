@@ -1,0 +1,130 @@
+{
+  "MAP_IMAGE_FILE": "MapContinentsOnly2025.png",
+  "INITIAL_ZOOM": 2,
+  "MIN_ZOOM": 1,  
+  "MAX_ZOOM": 300,
+  "LOGO_ICON_FILE": "logo.svg",
+  "LOGO_STRING": "",
+  "SLIDER_ICON_FILE": "globe.svg",
+  "ENABLE_EDIT": false,
+  "ENABLE_DYNAMIC_ANIMATION_SPEED": true,
+  "ANIMATION_SPEED": -1,
+  "CHARACTER_LIST": [
+    {
+      "NAME": "Lorn",
+      "FILE": "lorn-data.json"
+    },
+    {
+      "NAME": "Ganoes Paran",
+      "FILE": "ganoes-paran-data.json"
+    },
+    {
+      "NAME": "Tattersail",
+      "FILE": "tattersail-data.json"
+    },
+    {
+      "NAME": "Onos T'oolan (Tool)",
+      "FILE": "onos-toolan-tool-data.json"
+    },
+    {
+      "NAME": "Toc the Younger",
+      "FILE": "toc-the-younger-data.json"
+    },
+    {
+      "NAME": "Fiddler",
+      "FILE": "fiddler-data.json"
+    },
+    {
+      "NAME": "Quick Ben",
+      "FILE": "quick-ben-data.json"
+    },
+    {
+      "NAME": "Kalam",
+      "FILE": "kalam-data.json"
+    },
+    {
+      "NAME": "Apsalar (Sorry)",
+      "FILE": "apsalar-sorry-data.json"
+    },
+    {
+      "NAME": "Crokus",
+      "FILE": "crokus-data.json"
+    },
+    {
+      "NAME": "Lostara Yil",
+      "FILE": "lostara-yil-data.json"
+    },
+    {
+      "NAME": "Pearl",
+      "FILE": "pearl-data.json"
+    },
+    {
+      "NAME": "Mappo",
+      "FILE": "mappo-data.json"
+    },
+    {
+      "NAME": "Icarium",
+      "FILE": "icarium-data.json"
+    },
+    {
+      "NAME": "Felisin",
+      "FILE": "felisin-data.json"
+    },
+    {
+      "NAME": "Stormy",
+      "FILE": "stormy-data.json"
+    },
+    {
+      "NAME": "Gesler",
+      "FILE": "gesler-data.json"
+    },
+    {
+      "NAME": "Coltaine (Chain of Dogs)",
+      "FILE": "coltaine-chain-of-dogs-data.json"
+    },
+    {
+      "NAME": "Karsa Orlong",
+      "FILE": "karsa-orlong-data.json"
+    },
+    {
+      "NAME": "Gruntle",
+      "FILE": "gruntle-data.json"
+    },
+    {
+      "NAME": "Trull",
+      "FILE": "trull-data.json"
+    },
+    {
+      "NAME": "Seren Pedac",
+      "FILE": "seren-pedac-data.json"
+    },
+    {
+      "NAME": "Udinaas",
+      "FILE": "udinaas-data.json"
+    },
+    {
+      "NAME": "Nimander",
+      "FILE": "nimander-data.json"
+    },
+    {
+      "NAME": "Torrent",
+      "FILE": "torrent-data.json"
+    }
+  ],
+  "LOD_MODE": "portable",
+  "MAP_IMAGE_LOD": [
+    {
+      "SCALE": 30,
+      "FILE": "MapContinentsOnly2025.png"
+    },
+    {
+      "SCALE": 5,
+      "FILE": "MapContinentsOnly_Half2025.png"
+    },
+    {
+      "SCALE": 3,
+      "FILE": "MapContinentsOnly_Quarter2025.png"
+    }
+  ],
+  "SUB_MAPS": []
+}

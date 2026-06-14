@@ -1,0 +1,208 @@
+{
+  "paths": [
+    {
+      "id": 0,
+      "sectionId": 0,
+      "isEndOfSection": true,
+      "style": 0,
+      "color": "#FF0000",
+      "book": 1,
+      "width": 0.5,
+      "startPointX": 1078.7,
+      "startPointY": 1019.5,
+      "endPointX": 1078.67,
+      "endPointY": 1019.52,
+      "controlPoint0X": 1078.65,
+      "controlPoint0Y": 1019.58,
+      "controlPoint1X": 1078.65,
+      "controlPoint1Y": 1019.55
+    },
+    {
+      "id": 1,
+      "sectionId": 1,
+      "isEndOfSection": false,
+      "style": 1,
+      "color": "#FF0000",
+      "book": 1,
+      "width": 0.5,
+      "startPointX": 1078.67,
+      "startPointY": 1019.52,
+      "endPointX": 1087.3,
+      "endPointY": 994.03,
+      "controlPoint0X": 1090.24,
+      "controlPoint0Y": 1004.48,
+      "controlPoint1X": 1089.83,
+      "controlPoint1Y": 1000.46
+    },
+    {
+      "id": 2,
+      "sectionId": 1,
+      "isEndOfSection": true,
+      "style": 1,
+      "color": "#FF0000",
+      "book": 1,
+      "width": 0.5,
+      "startPointX": 1087.3,
+      "startPointY": 994.03,
+      "endPointX": 1140.7086,
+      "endPointY": 981.1086,
+      "controlPoint0X": 1084.83,
+      "controlPoint0Y": 986.55,
+      "controlPoint1X": 1104.4,
+      "controlPoint1Y": 983.79
+    },
+    {
+      "id": 3,
+      "sectionId": 2,
+      "isEndOfSection": true,
+      "style": 1,
+      "color": "#FF0000",
+      "book": 1,
+      "width": 0.5,
+      "startPointX": 1140.7086,
+      "startPointY": 981.1086,
+      "endPointX": 1376.41,
+      "endPointY": 632.9,
+      "controlPoint0X": 1141.71,
+      "controlPoint0Y": 1042.35,
+      "controlPoint1X": 1357.05,
+      "controlPoint1Y": 578.45
+    },
+    {
+      "id": 4,
+      "sectionId": 3,
+      "isEndOfSection": true,
+      "style": 0,
+      "color": "#FF0000",
+      "book": 1,
+      "width": 0.5,
+      "startPointX": 1376.41,
+      "startPointY": 632.9,
+      "endPointX": 1387.93,
+      "endPointY": 721.77,
+      "controlPoint0X": 1399.19,
+      "controlPoint0Y": 686.11,
+      "controlPoint1X": 1403.97,
+      "controlPoint1Y": 653.56
+    },
+    {
+      "id": 5,
+      "sectionId": 4,
+      "isEndOfSection": true,
+      "style": 0,
+      "color": "#FF0000",
+      "book": 1,
+      "width": 0.5,
+      "startPointX": 1387.93,
+      "startPointY": 721.77,
+      "endPointX": 1382.49,
+      "endPointY": 738.4,
+      "controlPoint0X": 1385.67,
+      "controlPoint0Y": 728.07,
+      "controlPoint1X": 1385.65,
+      "controlPoint1Y": 729.81
+    },
+    {
+      "id": 6,
+      "sectionId": 5,
+      "isEndOfSection": false,
+      "style": 0,
+      "color": "#FF0000",
+      "book": 1,
+      "width": 0.5,
+      "startPointX": 1382.49,
+      "startPointY": 738.4,
+      "endPointX": 1406.53,
+      "endPointY": 744.58,
+      "controlPoint0X": 1391.49,
+      "controlPoint0Y": 737.93,
+      "controlPoint1X": 1402.15,
+      "controlPoint1Y": 741.23
+    },
+    {
+      "id": 7,
+      "sectionId": 5,
+      "isEndOfSection": true,
+      "style": 0,
+      "color": "#FF0000",
+      "book": 1,
+      "width": 0.5,
+      "startPointX": 1406.53,
+      "startPointY": 744.58,
+      "endPointX": 1402.16,
+      "endPointY": 762.15,
+      "controlPoint0X": 1414.74,
+      "controlPoint0Y": 749.22,
+      "controlPoint1X": 1412.19,
+      "controlPoint1Y": 758.13
+    },
+    {
+      "id": 8,
+      "sectionId": 6,
+      "isEndOfSection": true,
+      "style": 0,
+      "color": "#FF0000",
+      "book": 1,
+      "width": 0.5,
+      "startPointX": 1402.16,
+      "startPointY": 762.15,
+      "endPointX": 1389.12,
+      "endPointY": 766.21,
+      "controlPoint0X": 1398.24,
+      "controlPoint0Y": 763.89,
+      "controlPoint1X": 1393.9,
+      "controlPoint1Y": 767.95
+    },
+    {
+      "id": 9,
+      "sectionId": 7,
+      "isEndOfSection": true,
+      "style": 1,
+      "color": "#FF0000",
+      "book": 1,
+      "width": 0.5,
+      "startPointX": 1389.12,
+      "startPointY": 766.21,
+      "endPointX": 1382.9,
+      "endPointY": 749.72,
+      "controlPoint0X": 1363.2,
+      "controlPoint0Y": 767.11,
+      "controlPoint1X": 1357.55,
+      "controlPoint1Y": 745.63
+    }
+  ],
+  "tooltips": [
+    {
+      "curve": "",
+      "endPoint": "Investigates the hounds' attack and recruits Paran."
+    },
+    {
+      "curve": "Travels with:\n-",
+      "endPoint": "Trains Paran as her partner."
+    },
+    {
+      "curve": "Travels with:\n-",
+      "endPoint": ""
+    },
+    {
+      "curve": "Moves by Horse to towards Pale.\n\nTravels with:\n-",
+      "endPoint": "Is attacked by Barghast and saved by Tool and Toc."
+    },
+    {
+      "curve": "Finishes the journey towards Pale to meet Dujek and Tayschrenn.\n\nTravels with:\nToc, Tool",
+      "endPoint": ""
+    },
+    {
+      "curve": "Journeys towards Darujhistan.\n\nTravels with:\nTool",
+      "endPoint": "Sets up a camp before wandering around and meeting Crokus.\nShe then returns to her camp and makes her way into the Jaghut Tomb of Raest within Omtose Phellak to take his Finnest."
+    },
+    {
+      "curve": "Proceeds towards Darujhistan after leaving Tool.\n\nTravels with:\n-",
+      "endPoint": "Arrives in Darujhistan where she plants the Finnest, is mortally wounded by the crimson guard and eventually killed by Meese and Irilta. She dies in Paran's arms."
+    },
+    {
+      "curve": "Paran carries her body to bury her.",
+      "endPoint": "Is burried by Paran on a hill."
+    }
+  ]
+}
