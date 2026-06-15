@@ -23,6 +23,12 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
         <link rel="stylesheet" href="index.css"/>
         <script type="module" src="main.js"></script>
+        <script>
+            if (!sessionStorage.getItem("hasVisited") || sessionStorage.getItem("hasVisited") === "false") {
+                sessionStorage.setItem("hasVisited", "true");
+                fetch("https://api.counterapi.dev/v2/MPotF/MPotF/up");
+            }
+        </script>
     </head>
 
     <body>
