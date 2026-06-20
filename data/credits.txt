@@ -1,4 +1,9 @@
 <p>These are the paths of the Fallen. <br>Remember them.</p>
+<p>
+    <i>Dashed</i> paths indicate regular movements. <br>
+    <i>Solid</i> paths indicate travel through a Warren. <br>
+    <i>Dotted</i> paths indicate that no information about the exact path taken is available.
+</p>
 <p>If you want to correct a mistake or add a new character, head to this website's <a href="https://github.com/Myrktil/malazan-paths-of-the-fallen" target="_blanc">Git repository</a> to learn more. All feedback is greatly is appreciated.</p>
 <p>Huge thanks to</p>
 <ul>
