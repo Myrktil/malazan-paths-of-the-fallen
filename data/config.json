@@ -2,7 +2,7 @@
   "MAP_IMAGE_FILE": "MapContinentsOnly2025.png",
   "INITIAL_ZOOM": 2,
   "MIN_ZOOM": 1,  
-  "MAX_ZOOM": 300,
+  "MAX_ZOOM": 150,
   "LOGO_ICON_FILE": "logo.svg",
   "LOGO_STRING": "",
   "SLIDER_ICON_FILE": "globe.svg",
@@ -111,11 +111,11 @@
       "FILE": "torrent-data.json"
     }
   ],
-  "LOD_MODE": "portable",
+  "LOD_MODE": "mobile",
   "MAP_IMAGE_LOD": [
     {
       "SCALE": 30,
-      "FILE": "MapContinentsOnly2025.png"
+      "FILE": "MapContinentsOnly_FiveEights2025.png"
     },
     {
       "SCALE": 5,
