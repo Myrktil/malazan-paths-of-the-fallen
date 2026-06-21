@@ -126,5 +126,6 @@
       "FILE": "MapContinentsOnly_Quarter2025.png"
     }
   ],
-  "SUB_MAPS": []
+  "SUB_MAPS": [],
+  "DISABLED_SHORTCUTS": []
 }
