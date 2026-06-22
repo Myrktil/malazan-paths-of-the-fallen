@@ -3,7 +3,7 @@
 This is the git repository for [Malazan Paths of the Fallen](https://Myrktil.github.io/malazan-paths-of-the-fallen/), an interactive map that visualizes the paths various characters took on their journey through the Malazan Book of the Fallen.
 
 ## Contributing
-Thank you for considering contributing to this project. When you want to report an oversight or to add additional information, there are two ways to go about it.
+Thank you for considering contributing to this project. If you want to report an oversight or add additional information, there are two ways to go about it.
 
 ### 1. Contact me
 [Open an issue](https://github.com/Myrktil/malazan-paths-of-the-fallen/issues/new) in this repository or send an email to [malazanpathsofthefallen@protonmail.com](mailto:malazanpathsofthefallen@protonmail.com) where you explain your request. Citing the books as proof would be appreciated.
