@@ -7,6 +7,7 @@
 <p>If you want to correct a mistake or add a new character, head to this website's <a href="https://github.com/Myrktil/malazan-paths-of-the-fallen" target="_blanc">Git repository</a> to learn more. All feedback is greatly is appreciated.</p>
 <p>Huge thanks to</p>
 <ul>
-    <li><a href="https://atlasoficeandfireblog.wordpress.com/category/malazan-atlas/">Adam Whitehead</a> for creating the amazing background map.</li>
-    <li><a href="https://www.reddit.com/user/Aqua_Tot/">Aqua_Tot</a> for helping me map out books 1 to 3.</li>
+    <li><a href="https://atlasoficeandfireblog.wordpress.com/category/malazan-atlas/" target="_blank">Adam Whitehead</a> for creating the amazing background map.</li>
+    <li><a href="https://www.reddit.com/user/Aqua_Tot/" target="_blank">Aqua_Tot</a> for helping me map out books 1 to 3.</li>
+    <li><a href="https://www.reddit.com/user/SageOfTheWise/" target="_blank">Sage Of The Wise</a> for catching mistakes and filling in the gaps.</li>
 </ul>
